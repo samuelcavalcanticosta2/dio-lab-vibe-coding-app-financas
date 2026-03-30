@@ -1,0 +1,60 @@
+🎯 Objetivo do MVP
+Validar se usuários iniciantes conseguem registrar e acompanhar suas finanças de forma simples e natural, usando apenas conversas com o “Agente Financeiro”.
+
+📱 Principais Telas
+Tela de Conversa (Chat Principal)
+
+Campo de entrada de texto/voz para registrar gastos e receitas.
+
+Respostas automáticas do Agente Financeiro com classificação e feedback.
+
+Sugestões rápidas (“Adicionar meta”, “Ver relatório”).
+
+Tela de Metas
+
+Definição de objetivos simples (ex.: “guardar R$200 este mês”).
+
+Barra de progresso mostrando evolução.
+
+Tela de Relatórios
+
+Gráficos básicos (pizza para categorias, linha para evolução mensal).
+
+Resumo em linguagem natural: “Você gastou mais em alimentação este mês”.
+
+Tela de Dicas
+
+Recomendações personalizadas de economia.
+
+Mensagens curtas e práticas, como “Você pode economizar R$50 se reduzir pedidos de delivery”.
+
+⚙️ Recursos Necessários
+Processamento de linguagem natural (NLP): interpretar mensagens do usuário e extrair valores, categorias e intenções.
+
+Classificação automática de transações: regras simples + aprendizado incremental.
+
+Banco de dados leve: armazenar transações, metas e relatórios.
+
+Motor de recomendações: gerar dicas de economia com base nos padrões de gasto.
+
+Interface conversacional: design simples, intuitivo e amigável.
+
+🧪 Validação Inicial
+Teste com 20–30 usuários iniciantes que nunca usaram apps de finanças ou desistiram dos tradicionais.
+
+Métricas principais:
+
+Quantidade de transações registradas por semana.
+
+Taxa de engajamento (quantas vezes voltam ao app).
+
+Clareza das dicas (feedback qualitativo).
+
+Hipótese a validar: “Usuários iniciantes conseguem registrar e acompanhar seus gastos apenas via conversa, sem sentir necessidade de planilhas ou formulários.”
+
+🚀 Próximos Passos
+Criar protótipo funcional com foco apenas em chat + registro automático de gastos.
+
+Testar a experiência de conversa antes de expandir para relatórios avançados.
+
+Coletar feedback e ajustar linguagem do Agente Financeiro para ser educativa e acolhedora.
